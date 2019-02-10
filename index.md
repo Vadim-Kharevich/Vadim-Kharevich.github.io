@@ -1,37 +1,14 @@
-## Welcome to GitHub Pages
+## Welcome to Vadim Kharevich portfolio
 
-You can use the [editor on GitHub](https://github.com/Vadim-Kharevich/Vadim-Kharevich.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+### About me
+Now I'm studying in the Minsk Radioengineering College in my last year. There I began to develop as a programmer. Some years I studied c# and sql. A few months ago I started learning web programming. I'm not going to stop there and want to continue to improve my skills. My main target is to become a developer in a successful IT company.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Interests
+- _Reading._ I like to spend time with an interesting book.
+- _Travelling._ I like to watch and study the culture and traditions of other peoples. I am also attracted to modern architecture.
+- _Biking._ I like to leave outside the city limits, especially by Bicycle.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Vadim-Kharevich/Vadim-Kharevich.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
