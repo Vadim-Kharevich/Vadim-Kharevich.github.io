@@ -8,8 +8,7 @@ body{
 	justify-content: center;
 }
 .main{
-	width: 800px;
-	background-color: #adbed8;
+	width: 900px;
 	display: flex;
 	flex-direction: column;
 }
@@ -24,6 +23,8 @@ img{
 	justify-content: space-around;
 }
 .first{
+	border-radius: 20px;
+	background-color: #1b9af9;
 	height: 300px;
 	display: flex;
 	flex-direction: row;
@@ -35,13 +36,31 @@ img{
 	justify-content: center;
 }
 .name{
-	font: bold 30px Times New Roman;
+	font: bold 35px Times New Roman;
 	color:#fff;
 	text-align: center;
-	text-shadow: red 0 0 8px;
 }
 .github{
 	text-align: center;
 	color:#fff;
 	text-shadow: red 0 0 5px;
+}
+.second{
+	border:1px solid;
+	border-radius: 20px;
+	margin-top: 10px;
+}
+.text{
+	margin:15px 20px;
+	font: normal 19px Times New Roman;
+	line-height: 1.5;
+}
+h2{
+	color: #243847;
+	text-align: center;
+	text-decoration: underline;
+	margin-bottom: 10px;
+}
+li{
+	margin-left: 15px;
 }
